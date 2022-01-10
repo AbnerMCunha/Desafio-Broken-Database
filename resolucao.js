@@ -1,3 +1,6 @@
+//AUTOR: ABNER RAFAEL MEDEIROS CUNHA
+
+
 //interacao com documento - https://www.youtube.com/watch?v=HrjC6RwEpt0&ab_channel=HeyNode
 const fs = require('fs');
 
