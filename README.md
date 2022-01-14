@@ -1,5 +1,5 @@
 # Desafio-Rocky
-Contexto: Arquivo JSON foi corrompido. É necessário corrigilo.
+Contexto: Arquivo JSON foi corrompido. É necessário corrigi-lo.
 
 O Desafio consiste, simplificadamente em 2 partes
 
